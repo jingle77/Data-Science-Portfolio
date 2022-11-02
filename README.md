@@ -8,7 +8,7 @@ Portfolio of data science projects I have completed through jupyter notebook and
 
 
 
-- ### Machine Learning
+- ### Depp Learning
   - [MNIST: Predicting Handwritten Digits](https://www.tensorflow.org/datasets/catalog/mnist): A model using a convolutional neural network to predict handwritten digits from the famous MNIST dataset. (WIP)
 
 
