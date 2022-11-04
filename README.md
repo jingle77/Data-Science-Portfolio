@@ -4,7 +4,7 @@ Portfolio of data science projects I have completed through jupyter notebook and
 ## Contents
 
 - ### AWS Sagemaker
-  - [Employee Salary Prediction: AWS Sagemaker Linear Learner](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Employee%20Salary%20Prediction/employee_salary_prediction_notebook.ipynb): A simple linear regression model built through amazon sagemaker jupyter lab. This project shows the basics of building and deploying a linear model in AWS Sagemaker. (WIP)
+  - [Employee Salary Prediction: AWS Sagemaker Linear Learner](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Employee%20Salary%20Prediction/employee_salary_prediction_notebook.ipynb): A simple linear regression model built through amazon sagemaker jupyter lab. This project shows the basics of building and deploying a linear model in AWS Sagemaker.
 
 
 
