@@ -9,6 +9,6 @@ Portfolio of data science projects I have completed through jupyter notebook and
 
 
 - ### Deep Learning
-  - [MNIST: Predicting Handwritten Digits](https://www.tensorflow.org/datasets/catalog/mnist): A model using a convolutional neural network to predict handwritten digits from the famous MNIST dataset. (WIP)
+  - [MNIST: Predicting Handwritten Digits](https://github.com/jingle77/Data-Science-Portfolio/blob/main/MNIST/MNIST_SOLUTION_NO_TENSORFLOW.ipynb): A model using a convolutional neural network that I built using functions instead of libraries to predict handwritten digits from the famous MNIST dataset.
 
 
