@@ -4,9 +4,9 @@ Portfolio of data science projects I have completed through jupyter notebook and
 ## Contents
 
 - ### AWS Sagemaker
-  - [Employee Salary Prediction: AWS Sagemaker Linear Learner](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Employee%20Salary%20Prediction/employee_salary_prediction_notebook.ipynb): A simple linear regression model built through amazon sagemaker jupyter lab. This project shows the basics of building and deploying a linear model in AWS Sagemaker.
+  - [Employee Salary Prediction: AWS Sagemaker Linear Learner](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Employee%20Salary%20Prediction/employee_salary_prediction_notebook.ipynb): A simple linear regression model built through amazon sagemaker jupyter lab that predicts the salary of an employee based on their years of service. This project shows the basics of building and deploying a linear model in AWS Sagemaker.
 
-  - [Medical Insurance Prediction: AWS Sagemaker Linear Learner](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Medical-Insurance-Prediction/Medical_Insurance_Prediction.ipynb): A multiple linear regression model built through amazon sagemaker jupyter lab. Similar to the employee salary prediction project, this project shows the basics of building, training, and deploying a multiple linear regression model in amazon sagemaker
+  - [Medical Insurance Prediction: AWS Sagemaker Linear Learner](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Medical-Insurance-Prediction/Medical_Insurance_Prediction.ipynb): A multiple linear regression model built through amazon sagemaker jupyter lab that predicts the expected medical insurance charges that a customer would be expected to incur based on features including gender, smoking status, bmi, and a few more. Similar to the employee salary prediction project, this project shows the basics of building, training, and deploying a multiple linear regression model in amazon sagemaker
 
 
 
