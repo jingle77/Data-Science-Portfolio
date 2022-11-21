@@ -12,5 +12,10 @@ Portfolio of data science projects I have completed through jupyter notebook and
 
 - ### Deep Learning
   - [MNIST: Predicting Handwritten Digits](https://github.com/jingle77/Data-Science-Portfolio/blob/main/MNIST/MNIST_SOLUTION_NO_TENSORFLOW.ipynb): A model using a convolutional neural network that I built using functions instead of libraries to predict handwritten digits from the famous MNIST dataset.
+  
+  
+  
+- ### Probability
+  - [Toledo Ride Hailing Service](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Ride%20Pricing/Pricing.ipynb): A ride hailing service is being launched for trips between Toledo airport and downtown Toledo. This will be active for 12 months and riders must be charged $30 dollars for each ride. When a ride is requested, it is sent to a deep pool of drivers. Drivers can choose whether or not to accept the ride and we can assume this is based on the pay they receive from the service. Based on a similar ride-hailing service in the same market, we have some data on which requests were accepted and which were not. We will utilize this data to find the price point that maximizes revenue. More specifically, we need to find the price point that has a good revenue margin yet isn’t so low that drivers do not accept rides.
 
 
